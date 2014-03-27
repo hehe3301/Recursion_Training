@@ -1,5 +1,10 @@
 import turtle
-
+'''
+filename: recCircle.py
+language: python3
+author:   Alex Habermann hehe3301@gmail.com
+purpose:  This program draws recursive circles with one circle at each of the three vertices on odd layers and 4 vertices on even layers
+'''
 
 def ready(rad):
     turtle.speed(0)
